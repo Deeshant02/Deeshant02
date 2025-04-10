@@ -14,7 +14,7 @@
 ---
 
 ### ⚡ Tech Stack
-- Frontend: **Angular, RxJS, TypeScript, JavaScript, Bootstrap**
+- Frontend: **Angular, RxJS, TypeScript, JavaScript, Bootstrap, SASS/SCSS**
 - Tools: **Git, REST APIs, VS Code**
 
 ---
