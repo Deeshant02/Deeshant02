@@ -15,6 +15,7 @@
 
 ### ⚡ Tech Stack
 - Frontend: **Angular, RxJS, TypeScript, JavaScript, Bootstrap, SASS/SCSS**
+- Skills: **Responsive UI Design, Cross-Browser Compatibility**
 - Tools: **Git, REST APIs, VS Code**
 
 ---
